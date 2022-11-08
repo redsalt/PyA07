@@ -26,7 +26,7 @@ def get_from_browser(search_address):
 # save the page source
 def save_page_source(filename="", content=""):
   now = get_now()
-  filename = f"{filename}-{now}"
+  filename = f"{filename}-{now}.html"
   save_to_file(filename, content)
 
 
