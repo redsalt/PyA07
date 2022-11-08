@@ -133,4 +133,4 @@ def extract_remoteok_jobs(keyword="python"):
 
 
 # start to extract a job list with keyword
-extract_remoteok_jobs("rust")
+extract_remoteok_jobs("python")

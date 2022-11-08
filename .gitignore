@@ -1,0 +1,4 @@
+# ignore page source and job list files
+
+data/*.*
+job/*.csv
